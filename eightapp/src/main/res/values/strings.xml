@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eightApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_text">Send</string>
+    <string name="send_to">send to</string>
+    <string name="share">share</string>
+    <string name="action_search">search</string>
+</resources>

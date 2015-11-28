@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第八个程序</string>
+    <string name="action_settings">设置</string>
+    <string name="btn_send_text">发送</string>
+    <string name="hello_world">你好 世界！</string>
+    <string name="send_to">发送的消息hahahahaha</string>
+    <string name="share">分享</string>
+    <string name="action_search">查找</string>
+</resources>

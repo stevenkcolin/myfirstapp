@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sixthapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_pick_contact_txt">Pick Contact</string>
+    <string name="title_activity_diaplay">diaplayActivity</string>
+    <string name="txt_share_text">Shared Content</string>
+</resources>

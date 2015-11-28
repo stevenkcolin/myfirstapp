@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第五个程序</string>
+    <string name="action_settings">设置</string>
+    <string name="btn_call_txt">打电话号码 12345678</string>
+    <string name="hello_world">你好 世界！</string>
+    <string name="base_url">http://www.baidu.com</string>
+    <string name="btn_map_txt">打开地图</string>
+    <string name="btn_browser_txt">打开浏览器</string>
+    <string name="btn_send_email_txt">发送邮件</string>
+    <string name="btn_create_calendar_txt">创建日历</string>
+    <string name="btn_safe_open_map_txt">安全打开地图</string>
+    <string name="btn_share_txt">分享</string>
+</resources>

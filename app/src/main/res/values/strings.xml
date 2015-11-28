@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My First App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="value_txt_view">Small Text</string>
+    <string name="tag_steve">steve</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_news_article">newsArticle</string>
+    <string name="title_activity_news__articles">News_Articles</string>
+</resources>

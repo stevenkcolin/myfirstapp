@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app12/app12.iml" filepath="$PROJECT_DIR$/app12/app12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app14/app14.iml" filepath="$PROJECT_DIR$/app14/app14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appAndroidVolley/appAndroidVolley.iml" filepath="$PROJECT_DIR$/appAndroidVolley/appAndroidVolley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appJacoco/appJacoco.iml" filepath="$PROJECT_DIR$/appJacoco/appJacoco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eightapp/eightapp.iml" filepath="$PROJECT_DIR$/eightapp/eightapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifthapp/fifthapp.iml" filepath="$PROJECT_DIR$/fifthapp/fifthapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourthapp/fourthapp.iml" filepath="$PROJECT_DIR$/fourthapp/fourthapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ninthapp/ninthapp.iml" filepath="$PROJECT_DIR$/ninthapp/ninthapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoIntentActivity/photoIntentActivity.iml" filepath="$PROJECT_DIR$/photoIntentActivity/photoIntentActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondapp/secondapp.iml" filepath="$PROJECT_DIR$/secondapp/secondapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seventhapp/seventhapp.iml" filepath="$PROJECT_DIR$/seventhapp/seventhapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixthapp/sixthapp.iml" filepath="$PROJECT_DIR$/sixthapp/sixthapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenthapp/tenthapp.iml" filepath="$PROJECT_DIR$/tenthapp/tenthapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdapp/thirdapp.iml" filepath="$PROJECT_DIR$/thirdapp/thirdapp.iml" />
+    </modules>
+  </component>
+</project>

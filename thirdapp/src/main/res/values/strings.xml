@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">thirdApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_email">aaa@example.com</string>
+    <string name="str_passwd">123456</string>
+</resources>

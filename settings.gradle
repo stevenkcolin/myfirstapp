@@ -1,0 +1,3 @@
+include ':app', ':secondapp', ':thirdapp', ':fourthapp', ':fifthapp', ':sixthapp', ':seventhapp', ':eightapp', ':ninthapp', ':tenthapp', ':app12', ':appJacoco', ':app14'
+include ':photoIntentActivity'
+include ':appAndroidVolley'

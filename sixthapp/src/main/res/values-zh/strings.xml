@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第六个app</string>
+    <string name="action_settings">设置</string>
+    <string name="btn_pick_contact_txt">通讯录</string>
+    <string name="hello_world">你好世界！</string>
+    <string name="txt_share_text">分享的内容</string>
+    <string name="title_activity_diaplay">展示页</string>
+</resources>

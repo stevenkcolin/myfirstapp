@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fourthApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_btn_1">Save To Internal File</string>
+    <string name="txt_btn_2">Save to External File</string>
+</resources>

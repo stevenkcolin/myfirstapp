@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第一个应用</string>
+    <string name="action_settings">设置</string>
+    <string name="button_send">发送</string>
+    <string name="edit_message">请输入字符</string>
+    <string name="hello_world">你好！</string>
+    <string name="title_activity_display_message">我的消息</string>
+    <string name="title_activity_main">主窗口</string>
+    <string name="value_txt_view">Small Text</string>
+    <string name="tag_steve">司提反</string>
+</resources>
